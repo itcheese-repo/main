@@ -2,3 +2,6 @@
 	path = submodules/submodule
 	url = https://github.com/itcheese/submodule.git
 	branch = main
+[submodule "submodule"]
+	path = submodule
+	url = https://github.com/itcheese-repo/submodule.git
